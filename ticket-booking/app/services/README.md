@@ -1,0 +1,1 @@
+Business logic boundaries are separated by domain while remaining one deployable monolith. Later these boundaries can become microservices.
